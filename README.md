@@ -1,4 +1,6 @@
 # Automated E-Commerce Profit & Expense Tracker (with VBA Automation)
+![Dashboard Screenshot](<img width="1229" height="692" alt="dashboard1" src="https://github.com/user-attachments/assets/9053a73a-704a-43e6-9bd4-55cb413c3080" />
+)
 
 A powerful, fully automated financial bookkeeping and data visualization tool designed for e-commerce sellers, marketing agencies, and dropshippers. This project bridges the gap between manual data entry and complex accounting software by enabling **1-Click Data Imports** via Excel VBA and offering an interactive executive dashboard.
 
