@@ -12,7 +12,7 @@ A powerful, fully automated financial bookkeeping and data visualization tool de
 ## 📁 Repository Structure
 
 *   `Automated E-Commerce Profit & Expense Tracker_V2.xlsm` - The core application (Macro-Enabled Excel Workbook containing formulas, dashboard UI, and the VBA module).
-*   `Ecom_Test_Data_2026.csv` - Dummy transaction payload file provided for testing the 1-click import functionality.
+*   `ecommerce data.csv` - Dummy transaction payload file provided for testing the 1-click import functionality.
 *   `README.md` - Documentation and project guide.
 
 ## 🛠️ How to Use
