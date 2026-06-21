@@ -21,7 +21,7 @@ A powerful, fully automated financial bookkeeping and data visualization tool de
 2.  **Important:** Make sure to click **"Enable Macros"** or **"Enable Content"** at the top bar when Excel opens, otherwise the automated import button will not function.
 3.  Navigate to the `Dashboard` sheet.
 4.  Click the custom **"Click to Import Data"** button.
-5.  Select the provided `Ecom_Test_Data_2026.csv` file from your local machine.
+5.  Select the provided `ecommerce data.csv` file from your local machine.
 6.  Watch the `Data_Log` update instantly and the entire dashboard/charts refresh automatically!
 
 ## 💻 Technical Stack Behind the Project
